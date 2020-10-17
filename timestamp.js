@@ -1,3 +1,5 @@
+// generate the timestamp
+
 let date = new Date();
 let timestamp =
   date.getFullYear() +
